@@ -1,0 +1,57 @@
+# Lidya Cota
+
+> Lidya Cota is a Mexican computer scientist (computóloga) based in Mexico City, trained at the Instituto Politécnico Nacional (IPN). For six years (2013–2019) she led the innovation area of a software development company, building data analysis, machine learning and artificial intelligence prototypes for clients in the United States and Mexico. She co-founded the online literature school Poescrítika, where she designed and runs the digital business, and she makes works of digital literature.
+
+Her name is spelled "Lidya" (with the "y" after the "d"). Citations and press sometimes misspell it as "Lydia Cota"; it refers to the same person. Author identifier: ORCID 0009-0003-1493-4197. Contact: hola@lidyacota.com.
+
+## Site
+
+- [Lidya Cota (Spanish, main version)](https://www.lidyacota.com/): Profile, skills, experience, education, digital literature and contact.
+- [Lidya Cota (English)](https://www.lidyacota.com/en/): Same content in English.
+
+## Skills
+
+- Artificial intelligence and data: graduate training in knowledge representation, ontologies, natural semantic networks, expert systems and time series analysis. Industry work on entity resolution (duplicate record detection), sentiment analysis, recommender systems, the design of a neural-network solution and business intelligence dashboards. Knows the full life cycle of an AI solution: data extraction and cleaning, representation, modeling, training and validation.
+- Technology project and team leadership: coordinated front-end, back-end, mobile and data teams across simultaneous projects; researched and proposed technologies and architectures; presented solutions to clients and executives in Spanish and English; took part in technical interviews and hiring.
+- Digital business and marketing: designed and ran a complete sales funnel (demand research, catalog, creative and copy, Meta campaigns, landing pages, international payments, delivery, customer support); measurement with the Meta pixel, Google Tag Manager and Google Analytics; moved the business from one-off launches to a subscription model. At Poescrítika: more than 35 course launches and more than 800 participants from over 40 countries. Uses generative AI tools in her work.
+- Development and systems: built and published, on her own, a native iPhone and iPad app in Swift; ABAP development in SAP for finance and tax; Unix server administration, batch processes and development, testing and production environments; Python, PHP, JavaScript and SQL. Today she builds her websites with AI-assisted coding.
+
+## Experience
+
+- 2023–present: Co-founder and director, Poescrítika, online literature school, with writer Abraham Truxillo. Today the school offers the Biblioteca Poescrítika, a subscription catalog of video courses in Spanish. https://www.poescritika.com/
+- 2019–2023: Independent projects, including the iOS app Sun Namaskar (no longer available).
+- 2013–2019: Head of the innovation area, Innomius Technologies (contract title: Data Scientist). Data analysis, machine learning and AI prototypes for clients in travel and aviation, consumer goods, telecommunications and technology.
+- 2007–2009: SAP ABAP consultant and developer (finance and tax), BrainUp Systems.
+- 2006–2007: Level 2 Unix server support for a multinational technology company, BrainUp Systems.
+- 2002–2003: Mandatory social service (a Mexican graduation requirement) and paid IT support internship, Pemex.
+
+## Education and research
+
+- 2003–2006: Graduate studies toward a Master of Science in Computer Science, Centro de Investigación en Computación (CIC), IPN. CONACYT scholarship holder. Member of the Parallel and Distributed Computing Laboratory led by Dr. Jesús Guillermo Figueroa Nazuno. Research on natural semantic networks applied to computing: techniques for the quantitative semantic comparison of networks from groups and from individuals, and a web system that collects the networks through surveys, computes their indicators and displays them as graphs. Also time series analysis and ontologies.
+- 1998–2002: Bachelor's degree in Informatics (Licenciatura en Ciencias de la Informática), UPIICSA, IPN.
+- 1995–1998: Technical diploma in Marketing (Técnico en Mercadotecnia), CECyT 14 "Luis Enrique Erro", IPN.
+- Certifications: SAP ABAP development (2009); English teaching certificate, Harmon Hall, recognized by Mexico's Ministry of Education (SEP).
+- Languages: Spanish (native), English (advanced, C2, IELTS).
+
+## Digital literature
+
+- [Alfonsina: Trap y poesía (2026)](https://www.alfonsinatrapypoesia.lidyacota.com/): Eight trap, reggaeton and dembow tracks based on "El dulce daño" (1918) by Alfonsina Storni. Authorship, AI-generated music and website by Lidya Cota.
+- [Bolero techno (2025–2026)](https://bolerotechno.lidyacota.com/): Music for 27 poems from the book "Bolero techno" (also published as "Bolero Techno") by Abraham Truxillo (Manofalsa, Lima, 2025). Concept, AI-generated music, direction and bilingual website by Lidya Cota. Presented in Acapulco (March 31, 2026) and at El Aleph, the UNAM Festival of Art and Science (May 16, 2026).
+- [Bestiario marino (2021)](https://bestiariomarino.github.io/bestiariomarino/): Interactive web work based on texts and visual poems by Abraham Truxillo. Programming, animation and voice by Lidya Cota. Discussed in the Bulletin of Hispanic Studies (Liverpool University Press, vol. 103, no. 4, 2026) alongside works by Gabriel García Márquez, Julio Cortázar, Julieta Campos and Antonio Benítez-Rojo. Honorable mention, Julio Torri National Prize for Short Fiction and Digital Literature 2020–2021. Included in the Lit(e)lat Anthology vol. 2.0 (2025), The Wrong Biennale 2023/24 (VerbivocoVirtual pavilion) and the Archivo Cartografía Digital. Presented at El Aleph, the UNAM Festival of Art and Science (2026).
+
+## References
+
+- [Kristian Van Haesendonck, "Mare Incognita: Towards a Latin American Sea Literature", Bulletin of Hispanic Studies 103(4), 2026, pp. 437–453](https://doi.org/10.3828/bhs.2026.21): scholarly article that analyzes Bestiario marino
+- [Zócalo: results of the Julio Torri Prize](https://www.zocalo.com.mx/vuelve-julio-torri-a-vivir-en-saltillo/)
+- [Lit(e)lat Anthology, vol. 2.0: Bestiario marino](https://antologia.litelat.net/volumen2/es/11_bestiario-marino.html)
+- [VerbivocoVirtual, The Wrong Biennale: Bestiario marino](https://fabiofon.com/verbivocovirtual/bestiario-marino/)
+- [Archivo Cartografía Digital: Bestiario marino](https://archivocartografia.cl/fichas/bestiario-marino/)
+- [Periódico de Poesía, UNAM (2025)](https://periodicodepoesia.unam.mx/bestiario-marino/)
+- [El Retruécano (2022)](https://www.elretruecano.com/a-audiencias-liquidas-libros-marinos/)
+- [El Aleph 2026 program](https://festivalelaleph.com/programacion?venue=19483)
+
+## Optional
+
+- [ORCID 0009-0003-1493-4197](https://orcid.org/0009-0003-1493-4197)
+- [GitHub: lidyacota](https://github.com/lidyacota)
+- [Abraham Truxillo](https://www.abrahamtruxillo.net): writer; author of the texts of Bestiario marino and Bolero techno; co-founder of Poescrítika

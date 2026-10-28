@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.lidyacota.com/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lidyacota.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/"/>
+  </url>
+  <url>
+    <loc>https://www.lidyacota.com/en/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lidyacota.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/"/>
+  </url>
+</urlset>

@@ -1,0 +1,5 @@
+# lidyacota.com — todo el sitio se puede indexar, incluidos buscadores y asistentes de IA.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.lidyacota.com/sitemap.xml
