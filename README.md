@@ -20,7 +20,7 @@ En el ámbito personal, y por gusto, hace literatura digital: obras web en las q
 
 ## Literatura digital
 
-- ***Bestiario marino*** (2021). Obra web interactiva a partir de los textos y poemas visuales de Abraham Truxillo. Programación, animación y voz: Lidya Cota. Mención honorífica en el Premio Nacional de Cuento Breve y Literatura Digital Julio Torri 2020-2021. Analizada en el *Bulletin of Hispanic Studies* (Liverpool University Press, 2026). Incluida en la *Antología Lit(e)lat*, volumen 2.0, exhibida en The Wrong Biennale 2023/24 y registrada en el Archivo Cartografía Digital. [Ver la obra](https://bestiariomarino.github.io/bestiariomarino/).
+- ***Bestiario marino*** (2021). Obra web interactiva a partir de los textos y poemas visuales de Abraham Truxillo. Diseño del proyecto, diseño de la interactividad, programación, animación y voz: Lidya Cota. Mención honorífica en el Premio Nacional de Cuento Breve y Literatura Digital Julio Torri 2020-2021. Analizada en el *Bulletin of Hispanic Studies* (Liverpool University Press, 2026). Incluida en la *Antología Lit(e)lat*, volumen 2.0, exhibida en The Wrong Biennale 2023/24 y registrada en el Archivo Cartografía Digital. [Ver la obra](https://bestiariomarino.github.io/bestiariomarino/).
 - ***Bolero techno*** (2025-2026). Música creada con inteligencia artificial para veintisiete poemas del libro de Abraham Truxillo. Presentada en El Aleph, Festival de Arte y Ciencia de la UNAM. [Escuchar la obra](https://bolerotechno.lidyacota.com/).
 - ***Alfonsina: Trap y poesía*** (2026). Ocho pistas a partir de *El dulce daño* (1918), de Alfonsina Storni. [Escuchar la obra](https://www.alfonsinatrapypoesia.lidyacota.com/).
 
