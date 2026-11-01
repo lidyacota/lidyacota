@@ -75,6 +75,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--rosa);outline-offse
 .item h4 a,.item p a,.texto a,.obra a,.prensa a,.contacto a,.nota a{color:var(--rosa);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px;text-decoration-color:rgba(156,86,98,.45);transition:text-decoration-color .3s ease}
 .item h4 a:hover,.item p a:hover,.texto a:hover,.obra a:hover,.prensa a:hover,.contacto a:hover,.nota a:hover{text-decoration-color:var(--rosa)}
 .nota{color:var(--gris);font-size:15.5px;margin-top:4px}
+a[href^="https://orcid.org"]{white-space:nowrap}
 
 .lista-simple li{padding:6px 0 6px 18px;position:relative}
 .lista-simple li::before{content:"";position:absolute;left:0;top:19px;width:8px;height:1px;background:var(--rosa)}
