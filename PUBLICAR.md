@@ -13,7 +13,7 @@ Página única en español (`index.html`) y su versión en inglés (`en/index.ht
 | `assets/fonts/` | Tipografías Newsreader y Schibsted Grotesk, alojadas en el propio sitio |
 | `img/lidya-cota.webp` | Retrato (900 × 900 px) que se ve en la página |
 | `img/lidya-cota.jpg` | El mismo retrato con fondo claro, para la vista previa al compartir el enlace |
-| `favicon.svg` | Ícono de la pestaña |
+| `favicon.ico`, `icon-192.png`, `apple-touch-icon.png` | Ícono de la pestaña y del celular (tu foto) |
 | `robots.txt` | Permite indexar todo el sitio |
 | `sitemap.xml` | Lista de páginas para Google, con sus dos idiomas |
 | `llms.txt` | Resumen del sitio para modelos de lenguaje |
