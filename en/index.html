@@ -15,12 +15,12 @@
 <link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/">
 <link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/">
 <link rel="alternate" type="text/plain" title="Summary for language models" href="https://www.lidyacota.com/llms.txt">
-<link rel="icon" href="../favicon.ico" sizes="48x48">
-<link rel="icon" href="../icon-192.png" type="image/png" sizes="192x192">
-<link rel="apple-touch-icon" href="../apple-touch-icon.png">
-<link rel="preload" href="../assets/fonts/newsreader-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="../assets/fonts/schibsted-grotesk-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="../assets/site.css">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" href="/icon-192.png" type="image/png" sizes="192x192">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preload" href="/assets/fonts/newsreader-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/schibsted-grotesk-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css">
 
 <meta property="og:type" content="profile">
 <meta property="og:site_name" content="Lidya Cota">
@@ -103,7 +103,7 @@
         <h1>I have led <em>artificial intelligence and data</em> projects, and I’ve designed and run an online business from start to finish. <span class="literatura">I also produce works of digital literature.</span></h1>
       </div>
       <figure class="photo">
-        <img src="../img/lidya-cota.webp" width="900" height="900" alt="Black-and-white portrait of Lidya Cota" fetchpriority="high">
+        <img src="/img/lidya-cota.webp" width="900" height="900" alt="Black-and-white portrait of Lidya Cota" fetchpriority="high">
         <figcaption><strong>Lidya Cota</strong></figcaption>
       </figure>
     </div>
@@ -111,16 +111,21 @@
 
   <div class="nav-band" id="indice">
     <nav class="sections inner" aria-label="Sections">
-        <a href="#about" data-target="about">About me</a>
-        <a href="#ventures" data-target="ventures">Ventures</a>
-        <a href="#skills" data-target="skills">Skills</a>
-        <a href="#experience" data-target="experience">Experience</a>
-        <a href="#education" data-target="education">Education</a>
-        <a href="#digital-literature" data-target="digital-literature">Digital literature</a>
-        <a href="#contact" data-target="contact">Contact</a>
+        <a href="/en/about/" data-target="about">About me</a>
+        <a href="/en/ventures/" data-target="ventures">Ventures</a>
+        <a href="/en/skills/" data-target="skills">Skills</a>
+        <a href="/en/experience/" data-target="experience">Experience</a>
+        <a href="/en/education/" data-target="education">Education</a>
+        <a href="/en/digital-literature/" data-target="digital-literature">Digital literature</a>
+        <a href="/en/contact/" data-target="contact">Contact</a>
     </nav>
   </div>
 
+  <div class="share-tools inner" hidden>
+    <button class="share-button" type="button"></button>
+    <span class="share-status" role="status"></span>
+    <input class="share-url" type="text" readonly hidden>
+  </div>
   <div class="inner" id="contenido" tabindex="-1">
     <section class="panel" id="about" data-profile aria-labelledby="t-about">
       <div class="banda"><h2 id="t-about" class="revelar">About me</h2><span class="trazo" aria-hidden="true"></span></div>
@@ -323,6 +328,7 @@
     <a href="mailto:hola@lidyacota.com">hola@lidyacota.com</a>
   </div>
 </footer>
-<script src="../assets/site.js" defer></script>
+<script src="/assets/site.js" defer></script>
+<script src="/assets/share.js" defer></script>
 </body>
 </html>
