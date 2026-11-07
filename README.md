@@ -1,10 +1,10 @@
 # Lidya Cota
 
-**Computóloga · Inteligencia artificial y datos · Dirección de proyectos tecnológicos · Negocios digitales · Artista de literatura digital**
+**Inteligencia artificial y datos · Dirección de proyectos tecnológicos · Negocios digitales · Literatura digital**
 
 Sitio oficial: [www.lidyacota.com](https://www.lidyacota.com) · English: [www.lidyacota.com/en](https://www.lidyacota.com/en/) · ORCID: [0009-0003-1493-4197](https://orcid.org/0009-0003-1493-4197) · [LinkedIn](https://www.linkedin.com/in/lidyacota/) · Contacto: [hola@lidyacota.com](mailto:hola@lidyacota.com)
 
-Este repositorio contiene el sitio personal de Lidya Cota, publicado con GitHub Pages.
+Este repositorio contiene el sitio personal de Lidya Cota, publicado con GitHub Pages. Su nombre de autora es **Lidya Cota**. Las variantes «Lydia Cota» y «Lidia Cota» también se encuentran al buscar su obra. Para identificarla al citar, utiliza su [ORCID 0009-0003-1493-4197](https://orcid.org/0009-0003-1493-4197).
 
 ## Biografía
 
@@ -14,9 +14,14 @@ Durante seis años, de 2013 a 2019, dirigió el área de innovación de Innomius
 
 Antes, desde 2002, trabajó en soporte técnico, en administración de servidores Unix para una multinacional de tecnología y en programación SAP ABAP para finanzas e impuestos.
 
-Desde 2019 desarrolla proyectos digitales propios. Programó y publicó una aplicación nativa para iOS en Swift y, desde 2023, es cofundadora y directora de [Poescrítika](https://www.poescritika.com/?utm_source=github&utm_medium=referral&utm_campaign=readme-lidyacota), una escuela de literatura en línea, donde diseñó y ha operado el negocio digital completo: producto, campañas en Meta, sitios web, medición con Google Analytics y Google Tag Manager, cobro internacional y atención a los participantes. La escuela suma más de 35 lanzamientos de cursos y más de 800 participantes de más de 40 países.
+Desde 2019 desarrolla proyectos digitales propios. Es también artista de literatura digital: sus obras web articulan poesía, programación, animación, voz y música, y transforman la forma de leer y recorrer la poesía.
 
-Es también artista de literatura digital: sus obras web articulan poesía, programación, animación, voz y música, y transforman la forma de leer y recorrer la poesía.
+## Emprendimientos
+
+- **[Poescrítika](https://www.poescritika.com/?utm_source=github&utm_medium=referral&utm_campaign=readme-lidyacota)** (desde 2023). Es cofundadora y directora de esta escuela de literatura en línea. Diseñó y ha operado el negocio digital completo: producto, campañas en Meta, sitios web, medición con Google Analytics y Google Tag Manager, cobro internacional y atención a los participantes. La escuela suma más de 35 lanzamientos de cursos y más de 800 participantes de más de 40 países.
+- **Sun Namaskar**. Concibió, programó en Swift y publicó esta aplicación para iPhone y iPad en la App Store. Hoy ya no está disponible.
+
+[Ver los emprendimientos en el sitio](https://www.lidyacota.com/#emprendimientos).
 
 ## Literatura digital
 
@@ -39,7 +44,7 @@ Es también artista de literatura digital: sus obras web articulan poesía, prog
 
 ## In English
 
-Lidya Cota is a Mexican computer scientist based in Mexico City, trained at the Instituto Politécnico Nacional (IPN). For six years she led the innovation area of a software development company, building data analysis, machine learning and artificial intelligence prototypes for clients in the United States and Mexico. She co-founded the online literature school Poescrítika, where she designed and runs the digital business. She is also a digital literature artist whose web works weave together poetry, code, animation, voice and music, including *Bestiario marino*, an honorable mention at Mexico’s Julio Torri National Prize, discussed in the *Bulletin of Hispanic Studies*. Her name is sometimes misspelled as Lydia Cota.
+Lidya Cota is a Mexican computer scientist based in Mexico City, trained at the Instituto Politécnico Nacional (IPN). For six years she led the innovation area of a software development company, building data analysis, machine learning and artificial intelligence prototypes for clients in the United States and Mexico. She co-founded the online literature school Poescrítika, where she designed and runs the digital business. She is also a digital literature artist whose web works weave together poetry, code, animation, voice and music, including *Bestiario marino*, an honorable mention at Mexico’s Julio Torri National Prize, discussed in the *Bulletin of Hispanic Studies*. She publishes as Lidya Cota. “Lydia Cota” and “Lidia Cota” are variant spellings associated with her work.
 
 ## Palabras clave
 

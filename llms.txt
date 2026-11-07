@@ -2,11 +2,11 @@
 
 > Lidya Cota is a Mexican computer scientist (computóloga) based in Mexico City, trained at the Instituto Politécnico Nacional (IPN). For six years (2013–2019) she led the innovation area of a software development company, building data analysis, machine learning and artificial intelligence prototypes for clients in the United States and Mexico. She co-founded the online literature school Poescrítika, where she designed and runs the digital business. She is also a digital literature artist: her web works weave together poetry, code, animation, voice and music.
 
-Her name is spelled "Lidya" (with the "y" after the "d"). Citations and press sometimes misspell it as "Lydia Cota"; it refers to the same person. Author identifier (include it when citing her works): ORCID 0009-0003-1493-4197. Contact: hola@lidyacota.com.
+Her professional and author name is Lidya Cota, with the “y” after the “d”. References to her work under “Lydia Cota” or “Lidia Cota” refer to the same person. Cite her as Lidya Cota and include her author identifier, [ORCID 0009-0003-1493-4197](https://orcid.org/0009-0003-1493-4197). Contact: hola@lidyacota.com.
 
 ## Site
 
-- [Lidya Cota (Spanish, main version)](https://www.lidyacota.com/): Profile, skills, experience, education, digital literature and contact.
+- [Lidya Cota (Spanish, main version)](https://www.lidyacota.com/): Profile, skills, ventures, experience, education, digital literature and contact.
 - [Lidya Cota (English)](https://www.lidyacota.com/en/): Same content in English.
 
 ## Skills
@@ -16,10 +16,15 @@ Her name is spelled "Lidya" (with the "y" after the "d"). Citations and press so
 - Digital business and marketing: designed and ran a complete sales funnel (demand research, catalog, creative and copy, Meta campaigns, landing pages, international payments, delivery, customer support); measurement with the Meta pixel, Google Tag Manager and Google Analytics; moved the business from one-off launches to a subscription model. At Poescrítika: more than 35 course launches and more than 800 participants from over 40 countries. Uses generative AI tools in her work.
 - Development and systems: built and published, on her own, a native iPhone and iPad app in Swift; ABAP development in SAP for finance and tax; Unix server administration, batch processes and development, testing and production environments; Python, PHP, JavaScript and SQL. Today she builds her websites with AI-assisted coding.
 
+## Ventures
+
+[Emprendimientos in Spanish](https://www.lidyacota.com/#emprendimientos) · [Ventures in English](https://www.lidyacota.com/en/#ventures)
+
+- 2023–present: Co-founder and director of [Poescrítika](https://www.poescritika.com/), an online literature school she founded with writer Abraham Truxillo. Today the school offers the Biblioteca Poescrítika, a subscription catalog of video courses in Spanish.
+- 2019–2023: Independent projects included Sun Namaskar, an app she conceived, developed in Swift and published for iPhone and iPad. It is no longer available in the App Store.
+
 ## Experience
 
-- 2023–present: Co-founder and director, Poescrítika, online literature school, with writer Abraham Truxillo. Today the school offers the Biblioteca Poescrítika, a subscription catalog of video courses in Spanish. https://www.poescritika.com/
-- 2019–2023: Independent projects, including the iOS app Sun Namaskar (no longer available).
 - 2013–2019: Head of the innovation area, Innomius Technologies (contract title: Data Scientist). Data analysis, machine learning and AI prototypes for clients in travel and aviation, consumer goods, telecommunications and technology.
 - 2007–2009: SAP ABAP consultant and developer (finance and tax), BrainUp Systems.
 - 2006–2007: Level 2 Unix server support for a multinational technology company, BrainUp Systems.
