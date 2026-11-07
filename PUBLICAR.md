@@ -11,7 +11,8 @@ El sitio personal de Lidya Cota se publica con GitHub Pages. Tiene una portada y
 | `tools/generar-rubros.py` | Genera las catorce páginas de rubro a partir de las portadas |
 | `<rubro>/index.html` y `en/<rubro>/index.html` | Páginas de rubro generadas, con título y dirección propios |
 | `assets/site.css` | Estilos compartidos |
-| `assets/site.js` | Navegación, compatibilidad con enlaces anteriores y acción Compartir |
+| `assets/site.js` | Navegación y compatibilidad con enlaces anteriores |
+| `assets/share.js` | Botón Compartir y copia del enlace al rubro abierto |
 | `assets/analytics.js` | Medición de visitas en los dominios de producción |
 | `assets/fonts/` | Tipografías alojadas en el propio sitio |
 | `img/lidya-cota.webp` | Retrato (900 × 900 px) que se ve en la página |
