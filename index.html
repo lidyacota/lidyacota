@@ -15,12 +15,12 @@
 <link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/">
 <link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/">
 <link rel="alternate" type="text/plain" title="Resumen para modelos de lenguaje" href="https://www.lidyacota.com/llms.txt">
-<link rel="icon" href="favicon.ico" sizes="16x16 32x32 48x48">
-<link rel="icon" href="icon-192.png" type="image/png" sizes="192x192">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
-<link rel="preload" href="assets/fonts/newsreader-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="assets/fonts/schibsted-grotesk-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="assets/site.css">
+<link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48">
+<link rel="icon" href="/icon-192.png" type="image/png" sizes="192x192">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preload" href="/assets/fonts/newsreader-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/schibsted-grotesk-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css">
 
 <meta property="og:type" content="profile">
 <meta property="og:site_name" content="Lidya Cota">
@@ -159,21 +159,26 @@
         <h1>He dirigido proyectos de <em>inteligencia artificial y datos</em>, y he diseñado y operado de principio a fin un negocio en línea. <span class="literatura">También realizo obras de literatura digital.</span></h1>
       </div>
       <figure class="photo">
-        <img src="img/lidya-cota.webp" width="900" height="900" fetchpriority="high" alt="Retrato en blanco y negro de Lidya Cota">
+        <img src="/img/lidya-cota.webp" width="900" height="900" fetchpriority="high" alt="Retrato en blanco y negro de Lidya Cota">
         <figcaption><strong>Lidya Cota</strong></figcaption>
       </figure>
     </div>
   </section>
   <div class="nav-band" id="indice">
     <nav class="sections inner" aria-label="Secciones">
-      <a href="#sobre-mi" data-target="sobre-mi">Sobre mí</a>
-      <a href="#emprendimientos" data-target="emprendimientos">Emprendimientos</a>
-      <a href="#habilidades" data-target="habilidades">Habilidades</a>
-      <a href="#trayectoria" data-target="trayectoria">Trayectoria</a>
-      <a href="#formacion" data-target="formacion">Formación</a>
-      <a href="#literatura-digital" data-target="literatura-digital">Literatura digital</a>
-      <a href="#contacto" data-target="contacto">Contacto</a>
+      <a href="/sobre-mi/" data-target="sobre-mi">Sobre mí</a>
+      <a href="/emprendimientos/" data-target="emprendimientos">Emprendimientos</a>
+      <a href="/habilidades/" data-target="habilidades">Habilidades</a>
+      <a href="/trayectoria/" data-target="trayectoria">Trayectoria</a>
+      <a href="/formacion/" data-target="formacion">Formación</a>
+      <a href="/literatura-digital/" data-target="literatura-digital">Literatura digital</a>
+      <a href="/contacto/" data-target="contacto">Contacto</a>
     </nav>
+  </div>
+  <div class="share-tools inner" hidden>
+    <button class="share-button" type="button"></button>
+    <span class="share-status" role="status"></span>
+    <input class="share-url" type="text" readonly hidden>
   </div>
   <div class="inner" id="contenido" tabindex="-1">
     <section class="panel" id="sobre-mi" aria-labelledby="t-sobre-mi">
@@ -310,7 +315,7 @@
       </div>
     </section>
     <section class="panel" id="literatura-digital" aria-labelledby="t-literatura">
-      <div class="banda">
+      <div class="banda" id="literatura">
         <h2 id="t-literatura" class="revelar">Literatura digital</h2>
         <span class="trazo" aria-hidden="true"></span>
       </div>
@@ -390,6 +395,7 @@
     <span>© 2026 Lidya Cota</span><a href="mailto:hola@lidyacota.com">hola@lidyacota.com</a>
   </div>
 </footer>
-<script src="assets/site.js" defer></script>
+<script src="/assets/site.js" defer></script>
+<script src="/assets/share.js" defer></script>
 </body>
 </html>

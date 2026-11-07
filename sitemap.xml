@@ -14,4 +14,102 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/"/>
   </url>
+  <url>
+    <loc>https://www.lidyacota.com/sobre-mi/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lidyacota.com/sobre-mi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/sobre-mi/"/>
+  </url>
+  <url>
+    <loc>https://www.lidyacota.com/en/about/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lidyacota.com/sobre-mi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/sobre-mi/"/>
+  </url>
+  <url>
+    <loc>https://www.lidyacota.com/emprendimientos/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lidyacota.com/emprendimientos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/ventures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/emprendimientos/"/>
+  </url>
+  <url>
+    <loc>https://www.lidyacota.com/en/ventures/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lidyacota.com/emprendimientos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/ventures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/emprendimientos/"/>
+  </url>
+  <url>
+    <loc>https://www.lidyacota.com/habilidades/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lidyacota.com/habilidades/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/skills/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/habilidades/"/>
+  </url>
+  <url>
+    <loc>https://www.lidyacota.com/en/skills/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lidyacota.com/habilidades/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/skills/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/habilidades/"/>
+  </url>
+  <url>
+    <loc>https://www.lidyacota.com/trayectoria/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lidyacota.com/trayectoria/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/experience/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/trayectoria/"/>
+  </url>
+  <url>
+    <loc>https://www.lidyacota.com/en/experience/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lidyacota.com/trayectoria/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/experience/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/trayectoria/"/>
+  </url>
+  <url>
+    <loc>https://www.lidyacota.com/formacion/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lidyacota.com/formacion/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/education/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/formacion/"/>
+  </url>
+  <url>
+    <loc>https://www.lidyacota.com/en/education/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lidyacota.com/formacion/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/education/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/formacion/"/>
+  </url>
+  <url>
+    <loc>https://www.lidyacota.com/literatura-digital/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lidyacota.com/literatura-digital/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/digital-literature/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/literatura-digital/"/>
+  </url>
+  <url>
+    <loc>https://www.lidyacota.com/en/digital-literature/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lidyacota.com/literatura-digital/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/digital-literature/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/literatura-digital/"/>
+  </url>
+  <url>
+    <loc>https://www.lidyacota.com/contacto/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lidyacota.com/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/contacto/"/>
+  </url>
+  <url>
+    <loc>https://www.lidyacota.com/en/contact/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lidyacota.com/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lidyacota.com/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lidyacota.com/contacto/"/>
+  </url>
 </urlset>
