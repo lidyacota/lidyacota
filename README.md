@@ -21,7 +21,7 @@ Desde 2019 desarrolla proyectos digitales propios. Es también artista de litera
 - **[Poescrítika](https://www.poescritika.com/?utm_source=github&utm_medium=referral&utm_campaign=readme-lidyacota)** (desde 2023). Es cofundadora y directora de esta escuela de literatura en línea. Diseñó y ha operado el negocio digital completo: producto, campañas en Meta, sitios web, medición con Google Analytics y Google Tag Manager, cobro internacional y atención a los participantes. La escuela suma más de 35 lanzamientos de cursos y más de 800 participantes de más de 40 países.
 - **Sun Namaskar**. Concibió, programó en Swift y publicó esta aplicación para iPhone y iPad en la App Store. Hoy ya no está disponible.
 
-[Ver los emprendimientos en el sitio](https://www.lidyacota.com/#emprendimientos).
+[Ver los emprendimientos en el sitio](https://www.lidyacota.com/emprendimientos/).
 
 ## Literatura digital
 

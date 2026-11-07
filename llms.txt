@@ -9,6 +9,16 @@ Her professional and author name is Lidya Cota, with the “y” after the “d�
 - [Lidya Cota (Spanish, main version)](https://www.lidyacota.com/): Profile, skills, ventures, experience, education, digital literature and contact.
 - [Lidya Cota (English)](https://www.lidyacota.com/en/): Same content in English.
 
+## Sections
+
+- [About me (English)](https://www.lidyacota.com/en/about/) · [Sobre mí (Spanish)](https://www.lidyacota.com/sobre-mi/)
+- [Ventures (English)](https://www.lidyacota.com/en/ventures/) · [Emprendimientos (Spanish)](https://www.lidyacota.com/emprendimientos/)
+- [Skills (English)](https://www.lidyacota.com/en/skills/) · [Habilidades (Spanish)](https://www.lidyacota.com/habilidades/)
+- [Experience (English)](https://www.lidyacota.com/en/experience/) · [Trayectoria (Spanish)](https://www.lidyacota.com/trayectoria/)
+- [Education (English)](https://www.lidyacota.com/en/education/) · [Formación (Spanish)](https://www.lidyacota.com/formacion/)
+- [Digital literature (English)](https://www.lidyacota.com/en/digital-literature/) · [Literatura digital (Spanish)](https://www.lidyacota.com/literatura-digital/)
+- [Contact (English)](https://www.lidyacota.com/en/contact/) · [Contacto (Spanish)](https://www.lidyacota.com/contacto/)
+
 ## Skills
 
 - Artificial intelligence and data: graduate training in knowledge representation, ontologies, natural semantic networks, expert systems and time series analysis. Industry work on entity resolution (duplicate record detection with Bayesian probabilistic models), sentiment analysis, recommender systems, the design of a neural-network solution and business intelligence dashboards. Knows the full life cycle of an AI solution: data extraction and cleaning, representation, modeling, training and validation.
@@ -17,8 +27,6 @@ Her professional and author name is Lidya Cota, with the “y” after the “d�
 - Development and systems: built and published, on her own, a native iPhone and iPad app in Swift; ABAP development in SAP for finance and tax; Unix server administration, batch processes and development, testing and production environments; Python, PHP, JavaScript and SQL. Today she builds her websites with AI-assisted coding.
 
 ## Ventures
-
-[Emprendimientos in Spanish](https://www.lidyacota.com/#emprendimientos) · [Ventures in English](https://www.lidyacota.com/en/#ventures)
 
 - 2023–present: Co-founder and director of [Poescrítika](https://www.poescritika.com/), an online literature school she founded with writer Abraham Truxillo. Today the school offers the Biblioteca Poescrítika, a subscription catalog of video courses in Spanish.
 - 2019–2023: Independent projects included Sun Namaskar, an app she conceived, developed in Swift and published for iPhone and iPad. It is no longer available in the App Store.
