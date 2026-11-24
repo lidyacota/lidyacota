@@ -12,7 +12,6 @@ El sitio personal de Lidya Cota se publica con GitHub Pages. Tiene una portada y
 | `<rubro>/index.html` y `en/<rubro>/index.html` | Páginas de rubro generadas, con título y dirección propios |
 | `assets/site.css` | Estilos compartidos |
 | `assets/site.js` | Navegación y compatibilidad con enlaces anteriores |
-| `assets/share.js` | Botón Compartir y copia del enlace al rubro abierto |
 | `assets/analytics.js` | Medición de visitas en los dominios de producción |
 | `assets/fonts/` | Tipografías alojadas en el propio sitio |
 | `img/lidya-cota.webp` | Retrato (900 × 900 px) que se ve en la página |
@@ -36,7 +35,7 @@ El sitio personal de Lidya Cota se publica con GitHub Pages. Tiene una portada y
 ## Actualizar
 
 1. Parte de la última versión de la rama `main` del repositorio [lidyacota/lidyacota](https://github.com/lidyacota/lidyacota). Edita el contenido en la portada del idioma correspondiente y actualiza la traducción si el cambio afecta a ambas. Si cambian los datos del perfil, actualiza también `README.md` y `llms.txt`.
-2. Desde la raíz del repositorio, ejecuta `python3 tools/generar-rubros.py` y revisa las páginas generadas. Cada rubro tiene un título y una URL que se pueden abrir directamente, también sin JavaScript. Comprueba la navegación con el teclado, el cambio de idioma y que la acción Compartir corresponda a la página abierta. Por ejemplo, los dos enlaces de Emprendimientos son [la página en español](https://www.lidyacota.com/emprendimientos/) y [su versión en inglés](https://www.lidyacota.com/en/ventures/).
+2. Desde la raíz del repositorio, ejecuta `python3 tools/generar-rubros.py` y revisa las páginas generadas. Cada rubro tiene un título y una URL que se pueden abrir directamente, también sin JavaScript. Comprueba la navegación con el teclado, el cambio de idioma y los enlaces de cada rubro. Por ejemplo, los dos enlaces de Emprendimientos son [la página en español](https://www.lidyacota.com/emprendimientos/) y [su versión en inglés](https://www.lidyacota.com/en/ventures/).
 3. Conserva los identificadores anteriores de las secciones para quienes guardaron enlaces con fragmentos, como `/#emprendimientos` o `/en/#ventures`. Si cambia una ruta, conserva la correspondencia entre el identificador anterior y el rubro. En `sitemap.xml`, cada portada y cada rubro tienen su propia entrada y enlazan con la misma página en el otro idioma. Actualiza `lastmod` con la fecha de modificación significativa de cada página que haya cambiado.
 4. Si reemplazas el retrato de la pestaña, exporta las tres versiones cuadradas y comprueba sus rutas desde `/` y `/en/`.
 5. Al editar las páginas, conserva la carga de `assets/analytics.js` en ambos idiomas. El archivo limita la medición a `lidyacota.com` y `www.lidyacota.com` y respeta la desactivación explícita de la propiedad. La configuración de consentimiento permite el almacenamiento analítico y deniega el almacenamiento publicitario, el uso de datos para anuncios y la personalización de anuncios.
